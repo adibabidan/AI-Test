@@ -1,0 +1,2710 @@
+fileFormatVersion: 2
+guid: ed4254169d86c6b44a75877a46796e28
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7166521664971903196
+    second: SpearDashAttack-SpearDashAttack_0000
+  - first:
+      213: 178738656073041235
+    second: SpearDashAttack-SpearDashAttack_0001
+  - first:
+      213: 8200463729994365304
+    second: SpearDashAttack-SpearDashAttack_0002
+  - first:
+      213: 894385553573987087
+    second: SpearDashAttack-SpearDashAttack_0003
+  - first:
+      213: -8070587612497318967
+    second: SpearDashAttack-SpearDashAttack_0004
+  - first:
+      213: -8460562907458207214
+    second: SpearDashAttack-SpearDashAttack_0005
+  - first:
+      213: 6041110450510178938
+    second: SpearDashAttack-SpearDashAttack_0006
+  - first:
+      213: -1715686290613170403
+    second: SpearDashAttack-SpearDashAttack_0007
+  - first:
+      213: 3710932087785906045
+    second: SpearDashAttackAntic-SpearDashAttackAntic_0000
+  - first:
+      213: 1265691968327434425
+    second: SpearDashAttackAntic-SpearDashAttackAntic_0001
+  - first:
+      213: 4123248511756130827
+    second: SpearDashAttackAntic-SpearDashAttackAntic_0002
+  - first:
+      213: 4473713147976810335
+    second: SpearDashAttackAntic-SpearDashAttackAntic_0003
+  - first:
+      213: 1816106808417176027
+    second: SpearDashAttackAntic-SpearDashAttackAntic_0004
+  - first:
+      213: 4025322030453433062
+    second: SpearDashAttackAntic-SpearDashAttackAntic_0005
+  - first:
+      213: 2493789845039791522
+    second: SpearDashAttackAntic-SpearDashAttackAntic_0006
+  - first:
+      213: -725561489332451329
+    second: SpearDashAttackAntic-SpearDashAttackAntic_0007
+  - first:
+      213: 258971809998874854
+    second: SpearDashAttackAntic-SpearDashAttackAntic_0008
+  - first:
+      213: 3860641743255549396
+    second: SpearDashAttackToIdle-SpearDashAttackToIdle_0000
+  - first:
+      213: -1826311574134212785
+    second: SpearDashAttackToIdle-SpearDashAttackToIdle_0001
+  - first:
+      213: -2145291392582845773
+    second: SpearDashAttackToIdle-SpearDashAttackToIdle_0002
+  - first:
+      213: -2207744928142196387
+    second: SpearDashAttackToIdle-SpearDashAttackToIdle_0003
+  - first:
+      213: 994022771475851686
+    second: SpearDashAttackToIdle-SpearDashAttackToIdle_0004
+  - first:
+      213: -6586895576803957715
+    second: SpearDashAttackToIdle-SpearDashAttackToIdle_0005
+  - first:
+      213: -491792378284129988
+    second: SpearDashAttackToIdle-SpearDashAttackToIdle_0006
+  - first:
+      213: 8862006984443637346
+    second: SpearDashAttackToIdle-SpearDashAttackToIdle_0007
+  - first:
+      213: -143307882985496611
+    second: SpearDashAttackToIdle-SpearDashAttackToIdle_0008
+  - first:
+      213: 6519786387075040373
+    second: SpearDashAttackToIdle-SpearDashAttackToIdle_0009
+  - first:
+      213: 4279062923287702981
+    second: SpearDashAttackToIdle-SpearDashAttackToIdle_0010
+  - first:
+      213: 1913398385821309143
+    second: SpearDashAttackToIdle-SpearDashAttackToIdle_0011
+  - first:
+      213: 6605123243504973212
+    second: SpearFrontShieldBump-SpearFrontShieldBump_0000
+  - first:
+      213: -620313963919459479
+    second: SpearFrontShieldBump-SpearFrontShieldBump_0001
+  - first:
+      213: 5974524634747835948
+    second: SpearFrontShieldIdle-SpearFrontShieldIdle_0000
+  - first:
+      213: 5975085209062370565
+    second: SpearFrontShieldIdle-SpearFrontShieldIdle_0001
+  - first:
+      213: -5971854998914422781
+    second: SpearFrontShieldIdle-SpearFrontShieldIdle_0002
+  - first:
+      213: 3075727874584046181
+    second: SpearFrontShieldIdle-SpearFrontShieldIdle_0003
+  - first:
+      213: 2385735374073924380
+    second: SpearFrontShieldIdle-SpearFrontShieldIdle_0004
+  - first:
+      213: -762418061903036893
+    second: SpearFrontShieldIdle-SpearFrontShieldIdle_0005
+  - first:
+      213: -4925860300489034081
+    second: SpearFrontShieldIdle-SpearFrontShieldIdle_0006
+  - first:
+      213: 4445849277496219383
+    second: SpearFrontShieldIdle-SpearFrontShieldIdle_0007
+  - first:
+      213: 451268376996580808
+    second: SpearFrontShieldIdle-SpearFrontShieldIdle_0008
+  - first:
+      213: 1785297089461714690
+    second: SpearFrontShieldIdle-SpearFrontShieldIdle_0009
+  - first:
+      213: -7295520529573062106
+    second: SpearFrontShieldIdle-SpearFrontShieldIdle_0010
+  - first:
+      213: 3485232845213527911
+    second: SpearFrontShieldIdle-SpearFrontShieldIdle_0011
+  - first:
+      213: 3802407518487318224
+    second: SpearFrontShieldIdle-SpearFrontShieldIdle_0012
+  - first:
+      213: -3448190039518834029
+    second: SpearFrontShieldIdle-SpearFrontShieldIdle_0013
+  - first:
+      213: -1771148566377855572
+    second: SpearFrontShieldToIdle-SpearFrontShieldToIdle_0000
+  - first:
+      213: 4149282244959677216
+    second: SpearFrontShieldToIdle-SpearFrontShieldToIdle_0001
+  - first:
+      213: 4208331698049623705
+    second: SpearFrontShieldToIdle-SpearFrontShieldToIdle_0002
+  - first:
+      213: 2353559302886629982
+    second: SpearFrontShieldToIdle-SpearFrontShieldToIdle_0003
+  - first:
+      213: -1056876348382443127
+    second: SpearFrontShieldToIdle-SpearFrontShieldToIdle_0004
+  - first:
+      213: -8239730932658504693
+    second: SpearFrontShieldToIdle-SpearFrontShieldToIdle_0005
+  - first:
+      213: 2704560893190678562
+    second: SpearIdle-SpearIdle_0000
+  - first:
+      213: 1730506788439235217
+    second: SpearIdle-SpearIdle_0001
+  - first:
+      213: -4147512474498103153
+    second: SpearIdle-SpearIdle_0002
+  - first:
+      213: -8975403596223997613
+    second: SpearIdle-SpearIdle_0003
+  - first:
+      213: 8374517118636791621
+    second: SpearIdle-SpearIdle_0004
+  - first:
+      213: -1200905771810114619
+    second: SpearIdle-SpearIdle_0005
+  - first:
+      213: -2119005649473756930
+    second: SpearIdle-SpearIdle_0006
+  - first:
+      213: -2009648030222981238
+    second: SpearIdle-SpearIdle_0007
+  - first:
+      213: -4973862399460608951
+    second: SpearIdle-SpearIdle_0008
+  - first:
+      213: 6766687922744619253
+    second: SpearIdle-SpearIdle_0009
+  - first:
+      213: 1893629399813217648
+    second: SpearIdle-SpearIdle_0010
+  - first:
+      213: 2731321747357238810
+    second: SpearIdle-SpearIdle_0011
+  - first:
+      213: -2342222008894058610
+    second: SpearIdle-SpearIdle_0012
+  - first:
+      213: 1039791894908580095
+    second: SpearIdle-SpearIdle_0013
+  - first:
+      213: -2393196490611199417
+    second: SpearIdleToFrontShield-SpearIdleToFrontShield_0000
+  - first:
+      213: 6458624320166442694
+    second: SpearIdleToFrontShield-SpearIdleToFrontShield_0001
+  - first:
+      213: 7612540891539264441
+    second: SpearIdleToFrontShield-SpearIdleToFrontShield_0002
+  - first:
+      213: -3382201020757938542
+    second: SpearIdleToFrontShield-SpearIdleToFrontShield_0003
+  - first:
+      213: -6607328489465370087
+    second: SpearIdleToFrontShield-SpearIdleToFrontShield_0004
+  - first:
+      213: 2618708670042205620
+    second: SpearIdleToFrontShield-SpearIdleToFrontShield_0005
+  - first:
+      213: 1928689415294153305
+    second: SpearIdleToFrontShield-SpearIdleToFrontShield_0006
+  - first:
+      213: 8737423818496550258
+    second: SpearIdleToFrontShield-SpearIdleToFrontShield_0007
+  - first:
+      213: 5614391329279626327
+    second: SpearIdleToFrontShield-SpearIdleToFrontShield_0008
+  - first:
+      213: 4028852991502318905
+    second: SpearIdleToFrontShield-SpearIdleToFrontShield_0009
+  - first:
+      213: -5679911065821647964
+    second: SpearIdleToFrontShield-SpearIdleToFrontShield_0010
+  - first:
+      213: -2340274331929221016
+    second: SpearIdleToFrontShield-SpearIdleToFrontShield_0011
+  - first:
+      213: 4483907809518169726
+    second: SpearIdleToWalk-SpearIdleToWalk_0000
+  - first:
+      213: -667861743228249518
+    second: SpearIdleToWalk-SpearIdleToWalk_0001
+  - first:
+      213: -4741154957607961738
+    second: SpearTurn-SpearTurn_0000
+  - first:
+      213: 5689092407083029120
+    second: SpearTurn-SpearTurn_0001
+  - first:
+      213: -6395431114912330471
+    second: SpearTurn-SpearTurn_0002
+  - first:
+      213: 6123069064467913067
+    second: SpearTurn-SpearTurn_0003
+  - first:
+      213: -8815204726810461280
+    second: SpearTurn-SpearTurn_0004
+  - first:
+      213: -5211737375121620454
+    second: SpearTurn-SpearTurn_0005
+  - first:
+      213: 3355053418941631659
+    second: SpearWalk-SpearWalk_0000
+  - first:
+      213: 3669406580375995006
+    second: SpearWalk-SpearWalk_0001
+  - first:
+      213: 6960643251406071599
+    second: SpearWalk-SpearWalk_0002
+  - first:
+      213: -4382992925282747574
+    second: SpearWalk-SpearWalk_0003
+  - first:
+      213: 1975263831278213614
+    second: SpearWalk-SpearWalk_0004
+  - first:
+      213: -8978192114142169894
+    second: SpearWalk-SpearWalk_0005
+  - first:
+      213: -455885873792867920
+    second: SpearWalk-SpearWalk_0006
+  - first:
+      213: -1148327307266166452
+    second: SpearWalk-SpearWalk_0007
+  - first:
+      213: 4239541556077936822
+    second: SpearWalk-SpearWalk_0008
+  - first:
+      213: -8574503165670953415
+    second: SpearWalk-SpearWalk_0009
+  - first:
+      213: 6306799357928974716
+    second: SpearWalk-SpearWalk_0010
+  - first:
+      213: 6174050143507942709
+    second: SpearWalk-SpearWalk_0011
+  - first:
+      213: 9002155982858498082
+    second: SpearWalk-SpearWalk_0012
+  - first:
+      213: 445123781482425373
+    second: SpearWalk-SpearWalk_0013
+  - first:
+      213: 7001769444809925746
+    second: SpearWalk-SpearWalk_0014
+  - first:
+      213: 3949612732168975813
+    second: SpearWalk-SpearWalk_0015
+  - first:
+      213: 2044097538085309233
+    second: SpearWalk-SpearWalk_0016
+  - first:
+      213: 7460732473993187100
+    second: SpearWalk-SpearWalk_0017
+  - first:
+      213: -6419461044902681249
+    second: SpearWalk-SpearWalk_0018
+  - first:
+      213: 5367973713068415848
+    second: SpearWalk-SpearWalk_0019
+  - first:
+      213: -4006710824093388575
+    second: SpearWalk-SpearWalk_0020
+  - first:
+      213: -1406548461607080973
+    second: SpearWalk-SpearWalk_0021
+  - first:
+      213: 6112304384928586696
+    second: SpearWalk-SpearWalk_0022
+  - first:
+      213: -2789270285883160458
+    second: SpearWalk-SpearWalk_0023
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpearDashAttack-SpearDashAttack_0000
+      rect:
+        serializedVersion: 2
+        x: 2813
+        y: 1288
+        width: 449
+        height: 233
+      alignment: 9
+      pivot: {x: 0.52672607, y: 0.54077256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd09ac30c79947360800000000000000
+      internalID: 7166521664971903196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearDashAttack-SpearDashAttack_0001
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 1309
+        width: 452
+        height: 221
+      alignment: 9
+      pivot: {x: 0.54977876, y: 0.51131225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3554dd65cd10b7200800000000000000
+      internalID: 178738656073041235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearDashAttack-SpearDashAttack_0002
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1834
+        width: 547
+        height: 213
+      alignment: 9
+      pivot: {x: 0.47806215, y: 0.52112675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879f9c38056edc170800000000000000
+      internalID: 8200463729994365304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearDashAttack-SpearDashAttack_0003
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 1826
+        width: 483
+        height: 221
+      alignment: 9
+      pivot: {x: 0.47929606, y: 0.5701358}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03c40d1cee796c00800000000000000
+      internalID: 894385553573987087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearDashAttack-SpearDashAttack_0004
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1190
+        width: 455
+        height: 223
+      alignment: 9
+      pivot: {x: 0.44285715, y: 0.57847536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cbed6483538fff80800000000000000
+      internalID: -8070587612497318967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearDashAttack-SpearDashAttack_0005
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1529
+        width: 465
+        height: 220
+      alignment: 9
+      pivot: {x: 0.48924732, y: 0.5772727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2128b159cda069a80800000000000000
+      internalID: -8460562907458207214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearDashAttack-SpearDashAttack_0006
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1529
+        width: 465
+        height: 220
+      alignment: 9
+      pivot: {x: 0.48924732, y: 0.5772727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a2f8392f556d350800000000000000
+      internalID: 6041110450510178938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearDashAttack-SpearDashAttack_0007
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1529
+        width: 465
+        height: 220
+      alignment: 9
+      pivot: {x: 0.48924732, y: 0.5772727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f8ef5a868a038e0800000000000000
+      internalID: -1715686290613170403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearDashAttackAntic-SpearDashAttackAntic_0000
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 1393
+        width: 398
+        height: 291
+      alignment: 9
+      pivot: {x: 0.5866834, y: 0.42955327}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fd31e8211ef7330800000000000000
+      internalID: 3710932087785906045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearDashAttackAntic-SpearDashAttackAntic_0001
+      rect:
+        serializedVersion: 2
+        x: 3429
+        y: 1397
+        width: 400
+        height: 277
+      alignment: 9
+      pivot: {x: 0.62125, y: 0.46209386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0c837a324a09110800000000000000
+      internalID: 1265691968327434425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearDashAttackAntic-SpearDashAttackAntic_0002
+      rect:
+        serializedVersion: 2
+        x: 2639
+        y: 1762
+        width: 429
+        height: 273
+      alignment: 9
+      pivot: {x: 0.5885781, y: 0.48351648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ad1efeca8b83930800000000000000
+      internalID: 4123248511756130827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearDashAttackAntic-SpearDashAttackAntic_0003
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 1280
+        width: 392
+        height: 246
+      alignment: 9
+      pivot: {x: 0.6441327, y: 0.50406504}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ff624c762d51e30800000000000000
+      internalID: 4473713147976810335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearDashAttackAntic-SpearDashAttackAntic_0004
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 1280
+        width: 392
+        height: 246
+      alignment: 9
+      pivot: {x: 0.6441327, y: 0.50406504}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9cfd5258b143910800000000000000
+      internalID: 1816106808417176027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearDashAttackAntic-SpearDashAttackAntic_0005
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 1479
+        width: 443
+        height: 236
+      alignment: 9
+      pivot: {x: 0.65124154, y: 0.59322035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e22bb34f01dcd730800000000000000
+      internalID: 4025322030453433062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearDashAttackAntic-SpearDashAttackAntic_0006
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 1479
+        width: 443
+        height: 236
+      alignment: 9
+      pivot: {x: 0.65124154, y: 0.59322035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2adb212c6a8bb9220800000000000000
+      internalID: 2493789845039791522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearDashAttackAntic-SpearDashAttackAntic_0007
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 1479
+        width: 443
+        height: 236
+      alignment: 9
+      pivot: {x: 0.65124154, y: 0.59322035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7c2ad6ba94ee5f0800000000000000
+      internalID: -725561489332451329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearDashAttackAntic-SpearDashAttackAntic_0008
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 1479
+        width: 443
+        height: 236
+      alignment: 9
+      pivot: {x: 0.65124154, y: 0.59322035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8a2d53d7d089300800000000000000
+      internalID: 258971809998874854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearDashAttackToIdle-SpearDashAttackToIdle_0000
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1138
+        width: 400
+        height: 242
+      alignment: 9
+      pivot: {x: 0.49875, y: 0.58677685}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5bacff531c39530800000000000000
+      internalID: 3860641743255549396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearDashAttackToIdle-SpearDashAttackToIdle_0001
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1138
+        width: 400
+        height: 242
+      alignment: 9
+      pivot: {x: 0.49875, y: 0.58677685}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47bb8eac43a7a6e0800000000000000
+      internalID: -1826311574134212785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearDashAttackToIdle-SpearDashAttackToIdle_0002
+      rect:
+        serializedVersion: 2
+        x: 3577
+        y: 1797
+        width: 443
+        height: 250
+      alignment: 9
+      pivot: {x: 0.49097064, y: 0.496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba756d38d46a32e0800000000000000
+      internalID: -2145291392582845773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearDashAttackToIdle-SpearDashAttackToIdle_0003
+      rect:
+        serializedVersion: 2
+        x: 3577
+        y: 1797
+        width: 443
+        height: 250
+      alignment: 9
+      pivot: {x: 0.49097064, y: 0.496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d510a6b5fa38c51e0800000000000000
+      internalID: -2207744928142196387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearDashAttackToIdle-SpearDashAttackToIdle_0004
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1041
+        width: 396
+        height: 270
+      alignment: 9
+      pivot: {x: 0.5391414, y: 0.4888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9a770b17a7bcd00800000000000000
+      internalID: 994022771475851686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearDashAttackToIdle-SpearDashAttackToIdle_0005
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1041
+        width: 396
+        height: 270
+      alignment: 9
+      pivot: {x: 0.5391414, y: 0.4888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24220c2f55a694a0800000000000000
+      internalID: -6586895576803957715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearDashAttackToIdle-SpearDashAttackToIdle_0006
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 1543
+        width: 413
+        height: 277
+      alignment: 9
+      pivot: {x: 0.5363196, y: 0.46209386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c314125007dcc29f0800000000000000
+      internalID: -491792378284129988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearDashAttackToIdle-SpearDashAttackToIdle_0007
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 1543
+        width: 413
+        height: 277
+      alignment: 9
+      pivot: {x: 0.5363196, y: 0.46209386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e2bc0466c2cfa70800000000000000
+      internalID: 8862006984443637346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearDashAttackToIdle-SpearDashAttackToIdle_0008
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1723
+        width: 391
+        height: 324
+      alignment: 9
+      pivot: {x: 0.5971867, y: 0.48765433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfd22d5d3ed20ef0800000000000000
+      internalID: -143307882985496611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearDashAttackToIdle-SpearDashAttackToIdle_0009
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1723
+        width: 391
+        height: 324
+      alignment: 9
+      pivot: {x: 0.5971867, y: 0.48765433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574090dfc2fea7a50800000000000000
+      internalID: 6519786387075040373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearDashAttackToIdle-SpearDashAttackToIdle_0010
+      rect:
+        serializedVersion: 2
+        x: 3051
+        y: 1728
+        width: 378
+        height: 319
+      alignment: 9
+      pivot: {x: 0.58862436, y: 0.47335422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cdab1aae09426b30800000000000000
+      internalID: 4279062923287702981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearDashAttackToIdle-SpearDashAttackToIdle_0011
+      rect:
+        serializedVersion: 2
+        x: 3051
+        y: 1728
+        width: 378
+        height: 319
+      alignment: 9
+      pivot: {x: 0.58862436, y: 0.47335422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d85facb1b1cd8a10800000000000000
+      internalID: 1913398385821309143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFrontShieldBump-SpearFrontShieldBump_0000
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 735
+        width: 360
+        height: 232
+      alignment: 9
+      pivot: {x: 0.8347222, y: 0.6508621}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c953ac2389c1aab50800000000000000
+      internalID: 6605123243504973212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFrontShieldBump-SpearFrontShieldBump_0001
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 820
+        width: 355
+        height: 231
+      alignment: 9
+      pivot: {x: 0.82112676, y: 0.65367967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96bbd538cb33467f0800000000000000
+      internalID: -620313963919459479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFrontShieldIdle-SpearFrontShieldIdle_0000
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1072
+        width: 366
+        height: 245
+      alignment: 9
+      pivot: {x: 0.80737704, y: 0.64081633}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2617fb3086c9e250800000000000000
+      internalID: 5974524634747835948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFrontShieldIdle-SpearFrontShieldIdle_0001
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1072
+        width: 366
+        height: 245
+      alignment: 9
+      pivot: {x: 0.80737704, y: 0.64081633}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d6adc1754cbe250800000000000000
+      internalID: 5975085209062370565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFrontShieldIdle-SpearFrontShieldIdle_0002
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1072
+        width: 366
+        height: 245
+      alignment: 9
+      pivot: {x: 0.80737704, y: 0.64081633}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308a09bc485bf1da0800000000000000
+      internalID: -5971854998914422781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFrontShieldIdle-SpearFrontShieldIdle_0003
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1072
+        width: 366
+        height: 245
+      alignment: 9
+      pivot: {x: 0.80737704, y: 0.64081633}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a695eb43e2faa20800000000000000
+      internalID: 3075727874584046181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFrontShieldIdle-SpearFrontShieldIdle_0004
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1072
+        width: 366
+        height: 245
+      alignment: 9
+      pivot: {x: 0.80737704, y: 0.64081633}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b82cbbea5db1120800000000000000
+      internalID: 2385735374073924380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFrontShieldIdle-SpearFrontShieldIdle_0005
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1072
+        width: 366
+        height: 245
+      alignment: 9
+      pivot: {x: 0.80737704, y: 0.64081633}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e7de9efc85b65f0800000000000000
+      internalID: -762418061903036893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFrontShieldIdle-SpearFrontShieldIdle_0006
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 988
+        width: 367
+        height: 243
+      alignment: 9
+      pivot: {x: 0.8079019, y: 0.6502058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96f620b724d3abb0800000000000000
+      internalID: -4925860300489034081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFrontShieldIdle-SpearFrontShieldIdle_0007
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 988
+        width: 367
+        height: 243
+      alignment: 9
+      pivot: {x: 0.8079019, y: 0.6502058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6d61edc54d2bd30800000000000000
+      internalID: 4445849277496219383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFrontShieldIdle-SpearFrontShieldIdle_0008
+      rect:
+        serializedVersion: 2
+        x: 2572
+        y: 1063
+        width: 368
+        height: 243
+      alignment: 9
+      pivot: {x: 0.8057065, y: 0.654321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd8f3da23a334600800000000000000
+      internalID: 451268376996580808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFrontShieldIdle-SpearFrontShieldIdle_0009
+      rect:
+        serializedVersion: 2
+        x: 2572
+        y: 1063
+        width: 368
+        height: 243
+      alignment: 9
+      pivot: {x: 0.8057065, y: 0.654321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f77e37e36a6c810800000000000000
+      internalID: 1785297089461714690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFrontShieldIdle-SpearFrontShieldIdle_0010
+      rect:
+        serializedVersion: 2
+        x: 2572
+        y: 1063
+        width: 368
+        height: 243
+      alignment: 9
+      pivot: {x: 0.8057065, y: 0.654321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a5a3f4bba11ca90800000000000000
+      internalID: -7295520529573062106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFrontShieldIdle-SpearFrontShieldIdle_0011
+      rect:
+        serializedVersion: 2
+        x: 2572
+        y: 1063
+        width: 368
+        height: 243
+      alignment: 9
+      pivot: {x: 0.8057065, y: 0.654321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76fe972aec80e5030800000000000000
+      internalID: 3485232845213527911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFrontShieldIdle-SpearFrontShieldIdle_0012
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 1259
+        width: 366
+        height: 246
+      alignment: 9
+      pivot: {x: 0.80737704, y: 0.6422764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de06b6fd7dd4c430800000000000000
+      internalID: 3802407518487318224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFrontShieldIdle-SpearFrontShieldIdle_0013
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 1259
+        width: 366
+        height: 246
+      alignment: 9
+      pivot: {x: 0.80737704, y: 0.6422764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3929078ad619520d0800000000000000
+      internalID: -3448190039518834029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFrontShieldToIdle-SpearFrontShieldToIdle_0000
+      rect:
+        serializedVersion: 2
+        x: 2234
+        y: 1185
+        width: 408
+        height: 203
+      alignment: 9
+      pivot: {x: 0.6997549, y: 0.61576355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca50b9843cd9b67e0800000000000000
+      internalID: -1771148566377855572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFrontShieldToIdle-SpearFrontShieldToIdle_0001
+      rect:
+        serializedVersion: 2
+        x: 2234
+        y: 1185
+        width: 408
+        height: 203
+      alignment: 9
+      pivot: {x: 0.6997549, y: 0.61576355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b28abc736359930800000000000000
+      internalID: 4149282244959677216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFrontShieldToIdle-SpearFrontShieldToIdle_0002
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1321
+        width: 421
+        height: 224
+      alignment: 9
+      pivot: {x: 0.62826604, y: 0.5535714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996a347f16ff66a30800000000000000
+      internalID: 4208331698049623705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFrontShieldToIdle-SpearFrontShieldToIdle_0003
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1321
+        width: 421
+        height: 224
+      alignment: 9
+      pivot: {x: 0.62826604, y: 0.5535714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52af5e57b589a020800000000000000
+      internalID: 2353559302886629982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFrontShieldToIdle-SpearFrontShieldToIdle_0004
+      rect:
+        serializedVersion: 2
+        x: 3313
+        y: 1629
+        width: 399
+        height: 295
+      alignment: 9
+      pivot: {x: 0.6177945, y: 0.5322034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989072b8f883551f0800000000000000
+      internalID: -1056876348382443127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFrontShieldToIdle-SpearFrontShieldToIdle_0005
+      rect:
+        serializedVersion: 2
+        x: 3313
+        y: 1629
+        width: 399
+        height: 295
+      alignment: 9
+      pivot: {x: 0.6177945, y: 0.5322034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c771a6f5896ad80800000000000000
+      internalID: -8239730932658504693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearIdle-SpearIdle_0000
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 1579
+        width: 387
+        height: 312
+      alignment: 9
+      pivot: {x: 0.5852713, y: 0.48076922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2282b009dc7888520800000000000000
+      internalID: 2704560893190678562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearIdle-SpearIdle_0001
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 1579
+        width: 387
+        height: 312
+      alignment: 9
+      pivot: {x: 0.5852713, y: 0.48076922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a925661cef30810800000000000000
+      internalID: 1730506788439235217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearIdle-SpearIdle_0002
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 1579
+        width: 387
+        height: 312
+      alignment: 9
+      pivot: {x: 0.5852713, y: 0.48076922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f880a0001631176c0800000000000000
+      internalID: -4147512474498103153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearIdle-SpearIdle_0003
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 1579
+        width: 387
+        height: 312
+      alignment: 9
+      pivot: {x: 0.5852713, y: 0.48076922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3591e43abf5f07380800000000000000
+      internalID: -8975403596223997613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearIdle-SpearIdle_0004
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 1579
+        width: 387
+        height: 312
+      alignment: 9
+      pivot: {x: 0.5852713, y: 0.48076922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54716c503f2483470800000000000000
+      internalID: 8374517118636791621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearIdle-SpearIdle_0005
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 1579
+        width: 387
+        height: 312
+      alignment: 9
+      pivot: {x: 0.5852713, y: 0.48076922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3ba8e2096855fe0800000000000000
+      internalID: -1200905771810114619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearIdle-SpearIdle_0006
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 1732
+        width: 400
+        height: 315
+      alignment: 9
+      pivot: {x: 0.56625, y: 0.47619048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0221ab697c792e0800000000000000
+      internalID: -2119005649473756930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearIdle-SpearIdle_0007
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 1732
+        width: 400
+        height: 315
+      alignment: 9
+      pivot: {x: 0.56625, y: 0.47619048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87eefa93cb4c14e0800000000000000
+      internalID: -2009648030222981238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearIdle-SpearIdle_0008
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 1542
+        width: 400
+        height: 314
+      alignment: 9
+      pivot: {x: 0.56625, y: 0.477707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9447a76108a49fab0800000000000000
+      internalID: -4973862399460608951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearIdle-SpearIdle_0009
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 1542
+        width: 400
+        height: 314
+      alignment: 9
+      pivot: {x: 0.56625, y: 0.477707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f07e1570da18ed50800000000000000
+      internalID: 6766687922744619253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearIdle-SpearIdle_0010
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 1542
+        width: 400
+        height: 314
+      alignment: 9
+      pivot: {x: 0.56625, y: 0.477707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d5a1008e5874a10800000000000000
+      internalID: 1893629399813217648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearIdle-SpearIdle_0011
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 1542
+        width: 400
+        height: 314
+      alignment: 9
+      pivot: {x: 0.56625, y: 0.477707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16078678aa97e520800000000000000
+      internalID: 2731321747357238810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearIdle-SpearIdle_0012
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 1594
+        width: 387
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5852713, y: 0.47619048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f84c61e71ce7fd0800000000000000
+      internalID: -2342222008894058610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearIdle-SpearIdle_0013
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 1594
+        width: 387
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5852713, y: 0.47619048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff03b5828351e6e00800000000000000
+      internalID: 1039791894908580095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearIdleToFrontShield-SpearIdleToFrontShield_0000
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1445
+        width: 396
+        height: 291
+      alignment: 9
+      pivot: {x: 0.584596, y: 0.42955327}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7427863b878a9ced0800000000000000
+      internalID: -2393196490611199417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearIdleToFrontShield-SpearIdleToFrontShield_0001
+      rect:
+        serializedVersion: 2
+        x: 3638
+        y: 1248
+        width: 392
+        height: 277
+      alignment: 9
+      pivot: {x: 0.6364796, y: 0.46209386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c638359994a1a950800000000000000
+      internalID: 6458624320166442694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearIdleToFrontShield-SpearIdleToFrontShield_0002
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 1741
+        width: 431
+        height: 273
+      alignment: 9
+      pivot: {x: 0.62064964, y: 0.4871795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3555e9b9d25a960800000000000000
+      internalID: 7612540891539264441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearIdleToFrontShield-SpearIdleToFrontShield_0003
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 1252
+        width: 408
+        height: 250
+      alignment: 9
+      pivot: {x: 0.7144608, y: 0.532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e62ce57120011d0800000000000000
+      internalID: -3382201020757938542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearIdleToFrontShield-SpearIdleToFrontShield_0004
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1099
+        width: 375
+        height: 247
+      alignment: 9
+      pivot: {x: 0.812, y: 0.61133605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a2917febd0e44a0800000000000000
+      internalID: -6607328489465370087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearIdleToFrontShield-SpearIdleToFrontShield_0005
+      rect:
+        serializedVersion: 2
+        x: 3630
+        y: 1027
+        width: 369
+        height: 241
+      alignment: 9
+      pivot: {x: 0.800813, y: 0.6348548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bde91039a5875420800000000000000
+      internalID: 2618708670042205620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearIdleToFrontShield-SpearIdleToFrontShield_0006
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 927
+        width: 365
+        height: 241
+      alignment: 9
+      pivot: {x: 0.809589, y: 0.6348548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952f9a8fdc414ca10800000000000000
+      internalID: 1928689415294153305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearIdleToFrontShield-SpearIdleToFrontShield_0007
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 920
+        width: 365
+        height: 241
+      alignment: 9
+      pivot: {x: 0.809589, y: 0.6348548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27526898ba0914970800000000000000
+      internalID: 8737423818496550258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearIdleToFrontShield-SpearIdleToFrontShield_0008
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 920
+        width: 365
+        height: 241
+      alignment: 9
+      pivot: {x: 0.809589, y: 0.6348548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ccebbea235aed40800000000000000
+      internalID: 5614391329279626327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearIdleToFrontShield-SpearIdleToFrontShield_0009
+      rect:
+        serializedVersion: 2
+        x: 3271
+        y: 1055
+        width: 366
+        height: 245
+      alignment: 9
+      pivot: {x: 0.80737704, y: 0.64081633}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93df3c2337c59e730800000000000000
+      internalID: 4028852991502318905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearIdleToFrontShield-SpearIdleToFrontShield_0010
+      rect:
+        serializedVersion: 2
+        x: 3271
+        y: 1055
+        width: 366
+        height: 245
+      alignment: 9
+      pivot: {x: 0.80737704, y: 0.64081633}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4abe3e5aaf6ec21b0800000000000000
+      internalID: -5679911065821647964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearIdleToFrontShield-SpearIdleToFrontShield_0011
+      rect:
+        serializedVersion: 2
+        x: 3271
+        y: 1055
+        width: 366
+        height: 245
+      alignment: 9
+      pivot: {x: 0.80737704, y: 0.64081633}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868e468f4eca58fd0800000000000000
+      internalID: -2340274331929221016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearIdleToWalk-SpearIdleToWalk_0000
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1311
+        width: 395
+        height: 284
+      alignment: 9
+      pivot: {x: 0.5683544, y: 0.41549295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e2eef556a0a3e30800000000000000
+      internalID: 4483907809518169726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearIdleToWalk-SpearIdleToWalk_0001
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1311
+        width: 395
+        height: 284
+      alignment: 9
+      pivot: {x: 0.5683544, y: 0.41549295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a9ec378474bb6f0800000000000000
+      internalID: -667861743228249518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearTurn-SpearTurn_0000
+      rect:
+        serializedVersion: 2
+        x: 3157
+        y: 1504
+        width: 394
+        height: 284
+      alignment: 9
+      pivot: {x: 0.57994926, y: 0.4190141}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67bf1be8fa8043eb0800000000000000
+      internalID: -4741154957607961738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearTurn-SpearTurn_0001
+      rect:
+        serializedVersion: 2
+        x: 3157
+        y: 1504
+        width: 394
+        height: 284
+      alignment: 9
+      pivot: {x: 0.57994926, y: 0.4190141}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0825e82f667b3fe40800000000000000
+      internalID: 5689092407083029120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearTurn-SpearTurn_0002
+      rect:
+        serializedVersion: 2
+        x: 3157
+        y: 1504
+        width: 394
+        height: 284
+      alignment: 9
+      pivot: {x: 0.57994926, y: 0.4190141}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d8b22194dde37a0800000000000000
+      internalID: -6395431114912330471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearTurn-SpearTurn_0003
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 1357
+        width: 356
+        height: 282
+      alignment: 9
+      pivot: {x: 0.5969101, y: 0.4432624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b691bca6fd289f450800000000000000
+      internalID: 6123069064467913067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearTurn-SpearTurn_0004
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 1357
+        width: 356
+        height: 282
+      alignment: 9
+      pivot: {x: 0.5969101, y: 0.4432624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab3e14810a1aa580800000000000000
+      internalID: -8815204726810461280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearTurn-SpearTurn_0005
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 1357
+        width: 356
+        height: 282
+      alignment: 9
+      pivot: {x: 0.5969101, y: 0.4432624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12cf3568703ca7b0800000000000000
+      internalID: -5211737375121620454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk-SpearWalk_0000
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 1393
+        width: 401
+        height: 288
+      alignment: 9
+      pivot: {x: 0.5723192, y: 0.45833334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bacc9760f4b8f8e20800000000000000
+      internalID: 3355053418941631659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk-SpearWalk_0001
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 1393
+        width: 401
+        height: 288
+      alignment: 9
+      pivot: {x: 0.5723192, y: 0.45833334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72cacfe7d95ce230800000000000000
+      internalID: 3669406580375995006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk-SpearWalk_0002
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 1393
+        width: 401
+        height: 288
+      alignment: 9
+      pivot: {x: 0.5723192, y: 0.45833334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f276748782c299060800000000000000
+      internalID: 6960643251406071599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk-SpearWalk_0003
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1584
+        width: 413
+        height: 304
+      alignment: 9
+      pivot: {x: 0.51452786, y: 0.49671054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4bb873182b7c23c0800000000000000
+      internalID: -4382992925282747574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk-SpearWalk_0004
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1584
+        width: 413
+        height: 304
+      alignment: 9
+      pivot: {x: 0.51452786, y: 0.49671054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9d3093dfb896b10800000000000000
+      internalID: 1975263831278213614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk-SpearWalk_0005
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1584
+        width: 413
+        height: 304
+      alignment: 9
+      pivot: {x: 0.51452786, y: 0.49671054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4b75737dd076380800000000000000
+      internalID: -8978192114142169894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk-SpearWalk_0006
+      rect:
+        serializedVersion: 2
+        x: 2931
+        y: 1096
+        width: 393
+        height: 286
+      alignment: 9
+      pivot: {x: 0.56615776, y: 0.44405594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b12572963e5ca9f0800000000000000
+      internalID: -455885873792867920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk-SpearWalk_0007
+      rect:
+        serializedVersion: 2
+        x: 2931
+        y: 1096
+        width: 393
+        height: 286
+      alignment: 9
+      pivot: {x: 0.56615776, y: 0.44405594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41f48ce5625010f0800000000000000
+      internalID: -1148327307266166452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk-SpearWalk_0008
+      rect:
+        serializedVersion: 2
+        x: 2931
+        y: 1096
+        width: 393
+        height: 286
+      alignment: 9
+      pivot: {x: 0.56615776, y: 0.44405594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0488c4590e5da30800000000000000
+      internalID: 4239541556077936822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk-SpearWalk_0009
+      rect:
+        serializedVersion: 2
+        x: 3697
+        y: 1553
+        width: 398
+        height: 292
+      alignment: 9
+      pivot: {x: 0.5690955, y: 0.44178084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e68bcecce310980800000000000000
+      internalID: -8574503165670953415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk-SpearWalk_0010
+      rect:
+        serializedVersion: 2
+        x: 3697
+        y: 1553
+        width: 398
+        height: 292
+      alignment: 9
+      pivot: {x: 0.5690955, y: 0.44178084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79a407e990468750800000000000000
+      internalID: 6306799357928974716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk-SpearWalk_0011
+      rect:
+        serializedVersion: 2
+        x: 3697
+        y: 1553
+        width: 398
+        height: 292
+      alignment: 9
+      pivot: {x: 0.5690955, y: 0.44178084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d8d3dd4e1aea550800000000000000
+      internalID: 6174050143507942709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk-SpearWalk_0012
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1610
+        width: 434
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5449309, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22030f2cb251eec70800000000000000
+      internalID: 9002155982858498082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk-SpearWalk_0013
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1610
+        width: 434
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5449309, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ca65c88b56d2600800000000000000
+      internalID: 445123781482425373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk-SpearWalk_0014
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1610
+        width: 434
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5449309, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274641d86384b2160800000000000000
+      internalID: 7001769444809925746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk-SpearWalk_0015
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1734
+        width: 413
+        height: 313
+      alignment: 9
+      pivot: {x: 0.64285713, y: 0.514377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5ba4d9ad7dfc630800000000000000
+      internalID: 3949612732168975813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk-SpearWalk_0016
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1734
+        width: 413
+        height: 313
+      alignment: 9
+      pivot: {x: 0.64285713, y: 0.514377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b43db71e71e5c10800000000000000
+      internalID: 2044097538085309233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk-SpearWalk_0017
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1734
+        width: 413
+        height: 313
+      alignment: 9
+      pivot: {x: 0.64285713, y: 0.514377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1fc59c08a8d98760800000000000000
+      internalID: 7460732473993187100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk-SpearWalk_0018
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 1752
+        width: 408
+        height: 295
+      alignment: 9
+      pivot: {x: 0.6164216, y: 0.46101695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f552e11013e79e6a0800000000000000
+      internalID: -6419461044902681249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk-SpearWalk_0019
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 1752
+        width: 408
+        height: 295
+      alignment: 9
+      pivot: {x: 0.6164216, y: 0.46101695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86bd31bb6afde7a40800000000000000
+      internalID: 5367973713068415848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk-SpearWalk_0020
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 1752
+        width: 408
+        height: 295
+      alignment: 9
+      pivot: {x: 0.6164216, y: 0.46101695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e07334ebbd4568c0800000000000000
+      internalID: -4006710824093388575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk-SpearWalk_0021
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 1556
+        width: 400
+        height: 291
+      alignment: 9
+      pivot: {x: 0.59125, y: 0.4364261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fba98a50afea7ce0800000000000000
+      internalID: -1406548461607080973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk-SpearWalk_0022
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 1556
+        width: 400
+        height: 291
+      alignment: 9
+      pivot: {x: 0.59125, y: 0.4364261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb1bb6247443d450800000000000000
+      internalID: 6112304384928586696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk-SpearWalk_0023
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 1556
+        width: 400
+        height: 291
+      alignment: 9
+      pivot: {x: 0.59125, y: 0.4364261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678c16304758a49d0800000000000000
+      internalID: -2789270285883160458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
